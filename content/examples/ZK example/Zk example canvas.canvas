@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"type":"group","id":"8ac02719e80776a2","x":-1120,"y":-140,"width":807,"height":140,"color":"3","label":"Periodic notes"},
+		{"type":"text","text":"# Zettelkasten vault layout example\n\n","id":"74c231a49ad98d55","x":-400,"y":-680,"width":640,"height":80},
+		{"type":"text","text":"## Folder structure\n","id":"57186a450dd69457","x":-216,"y":-420,"width":272,"height":66},
+		{"type":"text","text":"### Weekly Review notes\n","id":"03605f62b0b60828","x":-620,"y":-120,"width":287,"height":60},
+		{"type":"text","text":"## Home Note\n","id":"b096e699295a68f8","x":614,"y":-387,"width":250,"height":55},
+		{"type":"text","text":"## Maps of Content\n","id":"db4c238775552381","x":466,"y":-120,"width":297,"height":55},
+		{"type":"text","text":"### Daily Notes","id":"3ce0ec5e485e8f76","x":-1080,"y":-117,"width":250,"height":60},
+		{"type":"text","text":"### Source Notes","id":"dea4c56318a049b7","x":56,"y":20,"width":220,"height":60},
+		{"type":"text","text":"## Tags","id":"7dac281a95d287a7","x":763,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"## Reminders/Tasks","id":"9c84dd1b31e68b91","x":1013,"y":-122,"width":280,"height":55},
+		{"type":"text","text":">[!question] Atomic notes\n>Atomic Notes are notes that you have broken down and refined from your literature notes that cover a single idea - you then link to this idea in your other literature notes and atomic notes to map out the concepts you are working on.","id":"1f037788cb9ca0cf","x":-15,"y":400,"width":538,"height":270},
+		{"type":"text","text":">[!question] Literature notes and source notes - What's the difference?\n>\"Literature notes\" are simply notes you process about topics you have or will continue to work on and add your own insight to. \n>\"source notes\" are to separate information that is more for reference and doesn't necessarily contain your personal insights.\n\n","id":"f8c12dd6c0f507a9","x":-620,"y":400,"width":538,"height":320},
+		{"type":"text","text":"### Literature notes","id":"cd8b2d7c34228393","x":-205,"y":-152,"width":250,"height":60},
+		{"type":"text","text":"##### Atomic notes","id":"055acadce21003b4","x":-140,"y":280,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"b34e6267df41452e","fromNode":"74c231a49ad98d55","fromSide":"bottom","toNode":"57186a450dd69457","toSide":"top"},
+		{"id":"195354875899b312","fromNode":"57186a450dd69457","fromSide":"bottom","toNode":"3ce0ec5e485e8f76","toSide":"top"},
+		{"id":"478c58a00c772710","fromNode":"57186a450dd69457","fromSide":"bottom","toNode":"03605f62b0b60828","toSide":"top"},
+		{"id":"1e1eb6e53269996e","fromNode":"57186a450dd69457","fromSide":"bottom","toNode":"cd8b2d7c34228393","toSide":"top"},
+		{"id":"f19fb73478d8fc4d","fromNode":"57186a450dd69457","fromSide":"bottom","toNode":"dea4c56318a049b7","toSide":"top"},
+		{"id":"3adaa31efc51a925","fromNode":"74c231a49ad98d55","fromSide":"bottom","toNode":"b096e699295a68f8","toSide":"top"},
+		{"id":"79ab26c908e52d06","fromNode":"b096e699295a68f8","fromSide":"bottom","toNode":"db4c238775552381","toSide":"top"},
+		{"id":"6bdbc4a66fb66e49","fromNode":"b096e699295a68f8","fromSide":"bottom","toNode":"7dac281a95d287a7","toSide":"top"},
+		{"id":"d1fe22c7d0212434","fromNode":"b096e699295a68f8","fromSide":"bottom","toNode":"9c84dd1b31e68b91","toSide":"top"},
+		{"id":"87744aac5d035676","fromNode":"3ce0ec5e485e8f76","fromSide":"right","toNode":"03605f62b0b60828","toSide":"left","color":"4"},
+		{"id":"5ce50664957933eb","fromNode":"03605f62b0b60828","fromSide":"right","toNode":"cd8b2d7c34228393","toSide":"left","color":"4"},
+		{"id":"d336373a6d72193b","fromNode":"03605f62b0b60828","fromSide":"right","toNode":"dea4c56318a049b7","toSide":"left","color":"4"},
+		{"id":"4e15299d3c30128c","fromNode":"cd8b2d7c34228393","fromSide":"right","toNode":"db4c238775552381","toSide":"left","fromEnd":"arrow","color":"5"},
+		{"id":"bafbe356d8f3250e","fromNode":"db4c238775552381","fromSide":"bottom","toNode":"dea4c56318a049b7","toSide":"right","fromEnd":"arrow","color":"5"},
+		{"id":"e87b6322f060da39","fromNode":"9c84dd1b31e68b91","fromSide":"bottom","toNode":"7dac281a95d287a7","toSide":"right","fromEnd":"arrow","color":"5"},
+		{"id":"1e08bedcbe3355c1","fromNode":"cd8b2d7c34228393","fromSide":"bottom","toNode":"055acadce21003b4","toSide":"top","color":"4"},
+		{"id":"bd1c9cf1146ec2ff","fromNode":"3ce0ec5e485e8f76","fromSide":"bottom","toNode":"7dac281a95d287a7","toSide":"bottom","fromEnd":"arrow","color":"5"}
+	]
+}

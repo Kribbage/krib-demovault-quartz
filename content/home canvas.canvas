@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"8fe7b687c19d5b45","type":"group","x":-914,"y":-82,"width":1101,"height":1332,"label":"Home Page"},
+		{"id":"3bf38da2818fdc20","type":"file","file":"_ home.md","subpath":"#✅Tasks","x":-876,"y":21,"width":551,"height":917},
+		{"id":"502eb172b67fd465","type":"file","file":"_ home.md","subpath":"#Daily Notes","x":-325,"y":21,"width":400,"height":1198},
+		{"id":"86fc0d6c7b260633","type":"link","url":"https://pomofocus.io","x":-1200,"y":-80,"width":261,"height":508},
+		{"id":"49dfb0e0ac05d740","type":"text","text":"##### Pomodoro timer webpage","x":-1434,"y":-159,"width":365,"height":50},
+		{"id":"692db461d782c538","type":"text","text":"# This is a canvas\n","x":-1495,"y":-700,"width":591,"height":81},
+		{"id":"5d91a0f4e4c228ef","type":"file","file":"_ home.md","subpath":"#Where to?","x":-876,"y":938,"width":551,"height":281},
+		{"id":"f0bce3388f5ce574","type":"text","text":"# This is Excalidraw\n\n## it is a plugin with much more extensive diagramming tools\n\n## the following diagram illustrates a possible zettelkasten workflow which we will go over next\n","x":460,"y":-498,"width":571,"height":478},
+		{"id":"18efc833af1190eb","type":"text","text":"## it is very handy for pulling in any notes, attachments, rearranging things visually and even embedding webpages","x":-720,"y":-794,"width":343,"height":494,"color":"2"},
+		{"id":"0b2e2bcf20116502","type":"text","text":"##### Here, we have linked to specific headings in the `_home` note, which lets us rearrange the sections of that page how we like!","x":-283,"y":-336,"width":480,"height":227,"color":"4"},
+		{"id":"a4885010ac83bb80","type":"file","file":"attachments/zettel diagram.md","x":349,"y":100,"width":1364,"height":937},
+		{"id":"00674c6f45352af5","type":"text","text":"Hold Right click - or - middle click - or -   space bar to drag the background and pan around \n\nHolding the space bar or cmd/ctrl and scrolling will zoom in or out","x":19,"y":-819,"width":330,"height":400,"color":"3"}
+	],
+	"edges":[
+		{"id":"9b3ad1c465a301f4","fromNode":"692db461d782c538","fromSide":"bottom","toNode":"18efc833af1190eb","toSide":"left","label":"it has some basic diagramming tools"},
+		{"id":"3c73f8a41ca8ed51","fromNode":"8fe7b687c19d5b45","fromSide":"right","toNode":"f0bce3388f5ce574","toSide":"left"},
+		{"id":"4ea77d90a300d7b7","fromNode":"f0bce3388f5ce574","fromSide":"bottom","toNode":"a4885010ac83bb80","toSide":"top"},
+		{"id":"27567327f0587e59","fromNode":"18efc833af1190eb","fromSide":"bottom","toNode":"0b2e2bcf20116502","toSide":"top","color":"2"},
+		{"id":"74cc734576748e7d","fromNode":"0b2e2bcf20116502","fromSide":"bottom","toNode":"3bf38da2818fdc20","toSide":"top","color":"4"},
+		{"id":"88c66500d1d24aac","fromNode":"18efc833af1190eb","fromSide":"bottom","toNode":"86fc0d6c7b260633","toSide":"top","color":"2"}
+	]
+}

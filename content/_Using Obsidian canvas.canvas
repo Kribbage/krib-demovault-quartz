@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"file","file":"_Using Obsidian.md","id":"ac4c85dbf4bb54a6","x":-1420,"y":-320,"width":588,"height":889},
+		{"type":"text","text":"\nPKM \n- practical approach vs theory\n\n>from Bryan Jenks\nadhd frameworks\n- framework for thought\n\t- you can't hold it all in your head\n\t\t- especially when you have ADHD\n\t- create a second brain\n- Working Memory – where is my stuff?\n- Top level structure – very flat – see everything in front of you \n- Impulsivity – I'll read this later – Collector's Fallacy.\n- Executive Dysfunction – Effort and decision making/\n\t- Reduce need of decisions of where to put things\n\t- reduce cognitive load of finding things\n- I can't lose this! \n\t- Don't file it, tag it, create a map to it, link to it\n","id":"1341045b3c0ce958","x":-420,"y":100,"width":578,"height":694},
+		{"type":"text","text":"- Facilitating processes\n\t- ABC method\n\t\t- free association with letters of the alphabet—what does the topic of this note bring to mind? — this can help you link to other notes or ideas\n- curating and reviewing\n\t- walk through the links in your notes and follow the trail to something that needs work as you go.\n\t- use queries and data to find specific areas for curation\n\t- review plugin\n- aesthetics\n\t- don't get mired in shiny tools – only work on what will help you achieve your goals!\n\t- you still want it to be pleasant to look at and customized to suit your needs.\n- Automation\n\t- what can be?\n\t- what *should* be?\n\n## Minimum viable product – just start! Iterate over time.","id":"102b1a46854f6091","x":-380,"y":-807,"width":622,"height":695},
+		{"type":"text","text":"","id":"4dfc54e25cd3e792","x":-780,"y":-660,"width":245,"height":280,"color":"3"}
+	],
+	"edges":[
+		{"id":"3ac4b150f86ab21c","fromNode":"4dfc54e25cd3e792","fromSide":"top","toNode":"ac4c85dbf4bb54a6","toSide":"top"},
+		{"id":"def718048100d3c0","fromNode":"4dfc54e25cd3e792","fromSide":"right","toNode":"102b1a46854f6091","toSide":"top"},
+		{"id":"f3df73d9494e73eb","fromNode":"ac4c85dbf4bb54a6","fromSide":"right","toNode":"1341045b3c0ce958","toSide":"left"}
+	]
+}

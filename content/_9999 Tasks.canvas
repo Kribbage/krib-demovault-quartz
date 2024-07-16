@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"group","id":"8e522339dfc0ff69","x":1540,"y":-1313,"width":1322,"height":1953,"color":"#81a1c1","label":"Tasks"},
+		{"type":"group","id":"c49bf9191f2120d2","x":2898,"y":-1313,"width":2084,"height":1121,"color":"2","label":"Grid"},
+		{"type":"group","id":"c5253e98fd15ffbf","x":600,"y":-2480,"width":740,"height":1101,"color":"5","label":"web apps in canvas"},
+		{"type":"group","id":"538d2216a5d3d743","x":2960,"y":-100,"width":980,"height":740,"color":"4","label":"complete"},
+		{"type":"group","id":"961f4d4c621d247c","x":1521,"y":-2414,"width":680,"height":785,"color":"1","label":"Tag legend for tasksexample"},
+		{"type":"file","file":"_legend.md","id":"aeb1d13959168cfb","x":1541,"y":-2394,"width":517,"height":585},
+		{"type":"text","text":"for this setup you would assign \"#🔳\" as the filter under the \"Tasks\" plugin settings - Then only checkboxes that contain that tag will be shown in tasks queries\n","id":"eb52441e7c142bb5","x":1541,"y":-1809,"width":443,"height":160},
+		{"type":"text","text":"# You can load webpages inside of canvas as well - Like this  pomodoro timer or noise generator site","id":"a23a92fd4837ca29","x":620,"y":-2460,"width":417,"height":180},
+		{"type":"link","url":"https://asoftmurmur.com/","id":"5cd21687ddda9e1b","x":620,"y":-2268,"width":334,"height":729},
+		{"type":"text","text":"# You can also load in and log into full web apps, such as google calendar or sheets. for quick access","id":"155dc7621238644e","x":620,"y":-1511,"width":414,"height":112},
+		{"type":"link","url":"https://pomofocus.io","id":"43812d9fab9081cc","x":986,"y":-2268,"width":334,"height":642},
+		{"type":"file","file":"files/_task query.md","subpath":"#Tasks","id":"5c5b11ee36f9b2d0","x":560,"y":-1275,"width":932,"height":1308},
+		{"type":"file","file":"files/_inprogressQuery.md","subpath":"#^c16f2c","id":"8423ede910f65c4f","x":1602,"y":-460,"width":1200,"height":332,"color":"#81a1c1"},
+		{"type":"file","file":"files/_task query.md","subpath":"#Tasks with Due Date","id":"89bb11f88881e1a8","x":1603,"y":-1208,"width":1200,"height":660,"color":"#81a1c1"},
+		{"type":"file","file":"files/_tasks done.md","id":"4f7788bf3784689a","x":2980,"y":-67,"width":932,"height":674},
+		{"type":"file","file":"files/_collectedTasks.md","subpath":"#Urgent and important","id":"702e8e8aff3b24dd","x":2938,"y":-1276,"width":1004,"height":528},
+		{"type":"file","file":"files/_collectedTasks.md","subpath":"#Defer and important","id":"191e68bea3c41e15","x":2938,"y":-748,"width":1004,"height":528},
+		{"type":"file","file":"files/_collectedTasks.md","subpath":"#Urgent and less important","id":"bc43a684275f638d","x":3942,"y":-1276,"width":1004,"height":528},
+		{"type":"file","file":"files/_collectedTasks.md","subpath":"#Defer and less important","id":"0bce0a972ea68ef8","x":3942,"y":-748,"width":1004,"height":528},
+		{"type":"file","file":"Excalidraw/Tasks label.md","id":"66e159ed18a88267","x":2520,"y":-2866,"width":2508,"height":1467}
+	],
+	"edges":[
+		{"id":"54314512ffdec0f6","fromNode":"89bb11f88881e1a8","fromSide":"bottom","toNode":"8423ede910f65c4f","toSide":"top","color":"2"},
+		{"id":"68ccd99792d54e72","fromNode":"8e522339dfc0ff69","fromSide":"right","toNode":"4f7788bf3784689a","toSide":"left","color":"5"}
+	]
+}
