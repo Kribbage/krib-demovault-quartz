@@ -20,6 +20,9 @@ group by tags
 >Let's start with the [[_Introduction]] 
 
 Check out some [[_zkHome example|example workflows]]
+
+Explore the [Canvas demo](https://demovault.kribbitt.cc/return-home.html) (you can return to this vault with the "Vault Home" links.
+
 ```dataview
 TABLE WITHOUT ID file.link as "Tutorial Topics"
 From #obsidiancourse

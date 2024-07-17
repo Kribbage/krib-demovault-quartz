@@ -13,5 +13,8 @@ publish: "true"
 ## More to Explore
 [[_ home]]
 
+
+[Canvas demo](https://demovault.kribbitt.cc/return-home.html)
+> use the vault home or return-home link on the sidebar to return to this vault
 ### Daily Note Examples
 [[2023-02-16]]
