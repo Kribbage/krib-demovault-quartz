@@ -10,3 +10,11 @@
 >Or you can make your own fresh vault with none of the customizations we have already covered that exist in this vault. All configuration changes are stored inside the hidden .obsidian/ directory in every vault and will not affect other vaults when you make a change.
 >	All folders and .md files in copies of this vault besides the hidden .obsidian directory are safe to delete without worry of losing configuration or plugin changes.
 
+
+## Example Workflows
+
+[[example lit note]]
+
+[Example Canvas](https://demovault.kribbitt.cc/zk-example/zk-example-canvas.html)
+
+[[Zettelkasten workflow.excalidraw.png]]

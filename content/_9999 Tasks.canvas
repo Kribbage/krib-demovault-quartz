@@ -19,7 +19,8 @@
 		{"type":"file","file":"files/_collectedTasks.md","subpath":"#Defer and important","id":"191e68bea3c41e15","x":2938,"y":-748,"width":1004,"height":528},
 		{"type":"file","file":"files/_collectedTasks.md","subpath":"#Urgent and less important","id":"bc43a684275f638d","x":3942,"y":-1276,"width":1004,"height":528},
 		{"type":"file","file":"files/_collectedTasks.md","subpath":"#Defer and less important","id":"0bce0a972ea68ef8","x":3942,"y":-748,"width":1004,"height":528},
-		{"type":"file","file":"Excalidraw/Tasks label.md","id":"66e159ed18a88267","x":2520,"y":-2866,"width":2508,"height":1467}
+		{"type":"file","file":"Excalidraw/Tasks label.md","id":"66e159ed18a88267","x":2520,"y":-2866,"width":2508,"height":1467},
+		{"id":"cbe5b230af737c63","x":1984,"y":-2720,"width":345,"height":88,"type":"text","text":"# [Vault Home](https://demovault.kribbitt.cc)\n"}
 	],
 	"edges":[
 		{"id":"54314512ffdec0f6","fromNode":"89bb11f88881e1a8","fromSide":"bottom","toNode":"8423ede910f65c4f","toSide":"top","color":"2"},

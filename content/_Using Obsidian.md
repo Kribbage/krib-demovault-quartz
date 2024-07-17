@@ -27,3 +27,4 @@ Matter - webclipper/reader
 Raindrop.io - bookmarks (free)/ webclipper(clipper is premium)
 
 There are many other integrations - if you can think of a way of consuming or annotating content, there is probably a way to automatically sync it into obsidian.
+

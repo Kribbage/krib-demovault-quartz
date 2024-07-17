@@ -1,16 +1,21 @@
 {
   "vaultName": "Krib-demovault",
-  "lastExport": 1721186957868,
+  "lastExport": 1721188642205,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "examples/ZK example/Zk example canvas.canvas",
-    "zettelkasten example/non-folder structure and tags.canvas",
+    "examples/zk-example/Zk example canvas.canvas",
+    "Excalidraw/Drawing 2023-02-10 19.35.54.excalidraw.md",
+    "Excalidraw/Excalidraw UI tour.excalidraw.md",
+    "Excalidraw/Tasks label.md",
+    "Excalidraw/Zettelkasten workflow.excalidraw.md",
+    "zettelkasten-example/non-folder structure and tags.canvas",
     "_9999 Tasks.canvas",
     "_Using Obsidian canvas.canvas",
     "home canvas.canvas",
+    "return-home.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -80,225 +85,255 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1721186957868,
-      "sourceSize": 4459,
+      "modifiedTime": 1721188642205,
+      "sourceSize": 6927,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1721186957868,
-      "sourceSize": 541,
+      "modifiedTime": 1721188642205,
+      "sourceSize": 875,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 15765,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 2836,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1721186957868,
+      "modifiedTime": 1721188642205,
       "sourceSize": 617,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
-    "zettelkasten example/non-folder structure and tags.canvas": {
-      "modifiedTime": 1721186902294,
-      "sourceSize": 2603,
-      "exportedPath": "zettelkasten-example/non-folder-structure-and-tags.html",
-      "dependencies": []
-    },
-    "examples/ZK example/Zk example canvas.canvas": {
-      "modifiedTime": 1721186957868,
-      "sourceSize": 4441,
-      "exportedPath": "examples/zk-example/zk-example-canvas.html",
-      "dependencies": []
-    },
     "_9999 Tasks.canvas": {
-      "modifiedTime": 1721186957868,
-      "sourceSize": 3260,
+      "modifiedTime": 1721188642205,
+      "sourceSize": 3403,
       "exportedPath": "_9999-tasks.html",
       "dependencies": []
     },
     "_Using Obsidian canvas.canvas": {
-      "modifiedTime": 1721186957868,
-      "sourceSize": 2142,
+      "modifiedTime": 1721188642205,
+      "sourceSize": 2285,
       "exportedPath": "_using-obsidian-canvas.html",
       "dependencies": []
     },
     "home canvas.canvas": {
-      "modifiedTime": 1721186957868,
-      "sourceSize": 2826,
+      "modifiedTime": 1721188642205,
+      "sourceSize": 2970,
       "exportedPath": "home-canvas.html",
+      "dependencies": []
+    },
+    "examples/zk-example/Zk example canvas.canvas": {
+      "modifiedTime": 1721188642205,
+      "sourceSize": 4583,
+      "exportedPath": "examples/zk-example/zk-example-canvas.html",
+      "dependencies": []
+    },
+    "Excalidraw/Drawing 2023-02-10 19.35.54.excalidraw.md": {
+      "modifiedTime": 1721188642205,
+      "sourceSize": 8493,
+      "exportedPath": "excalidraw/drawing-2023-02-10-19.35.54.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Excalidraw UI tour.excalidraw.md": {
+      "modifiedTime": 1721188642205,
+      "sourceSize": 17703,
+      "exportedPath": "excalidraw/excalidraw-ui-tour.excalidraw.html",
+      "dependencies": []
+    },
+    "Excalidraw/Tasks label.md": {
+      "modifiedTime": 1721188642205,
+      "sourceSize": 3227,
+      "exportedPath": "excalidraw/tasks-label.html",
+      "dependencies": []
+    },
+    "Excalidraw/Zettelkasten workflow.excalidraw.md": {
+      "modifiedTime": 1721188642205,
+      "sourceSize": 99673,
+      "exportedPath": "excalidraw/zettelkasten-workflow.excalidraw.html",
+      "dependencies": []
+    },
+    "zettelkasten-example/non-folder structure and tags.canvas": {
+      "modifiedTime": 1721188642205,
+      "sourceSize": 2744,
+      "exportedPath": "zettelkasten-example/non-folder-structure-and-tags.html",
+      "dependencies": []
+    },
+    "return-home.md": {
+      "modifiedTime": 1721188642205,
+      "sourceSize": 88,
+      "exportedPath": "return-home.html",
       "dependencies": []
     }
   }

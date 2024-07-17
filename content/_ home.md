@@ -19,6 +19,7 @@ group by tags
 
 >Let's start with the [[_Introduction]] 
 
+Check out some [[_zkHome example|example workflows]]
 ```dataview
 TABLE WITHOUT ID file.link as "Tutorial Topics"
 From #obsidiancourse
@@ -76,6 +77,9 @@ from #project/ongoing
 	- highlights syntax of various coding and markup language languages
 - Excalidraw 
 	- diagramming tool. 
+	- [[Drawing 2023-02-10 19.35.54.excalidraw.png]]
+	- [[Excalidraw UI tour.excalidraw.png]]
+	- [[Zettelkasten workflow.excalidraw.png]
 - Periodic Notes 
 	- automatically create daily - weekly - monthly notes with support for templates
 - Tasks 

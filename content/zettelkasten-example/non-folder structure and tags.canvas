@@ -4,14 +4,15 @@
 		{"type":"text","text":"```dataview\nTABLE WITHOUT ID file.link as \"Name\", file.tags as \"Tags\"\nFrom #programming/markdown OR #obsidian/markdown   \n```","id":"2d05c758486628f3","x":-366,"y":478,"width":597,"height":425,"color":"4"},
 		{"type":"text","text":"# Tags\n\n#obsidiancourse","id":"3bd68e8885cf863f","x":-747,"y":-175,"width":222,"height":112,"color":"1"},
 		{"type":"text","text":"# DATAVIEW","id":"dcb5fe43c00b7fb4","x":-366,"y":-213,"width":250,"height":74,"color":"2"},
-		{"type":"file","file":"zettelkasten example/example markdown2.md","id":"b8bf3d49b9cc03f4","x":-747,"y":-13,"width":250,"height":92,"color":"1"},
-		{"type":"file","file":"zettelkasten example/example markdown1.md","id":"9eab0eefc81ec8f9","x":-747,"y":99,"width":250,"height":89,"color":"1"},
-		{"type":"file","file":"zettelkasten example/example plugins.md","id":"2be7e0e646948fb1","x":-747,"y":214,"width":250,"height":99,"color":"1"},
-		{"type":"file","file":"zettelkasten example/example css.md","id":"84fe17d7ff905623","x":-747,"y":337,"width":250,"height":86,"color":"1"},
+		{"type":"file","file":"zettelkasten-example/example markdown2.md","id":"b8bf3d49b9cc03f4","x":-747,"y":-13,"width":250,"height":92,"color":"1"},
+		{"type":"file","file":"zettelkasten-example/example markdown1.md","id":"9eab0eefc81ec8f9","x":-747,"y":99,"width":250,"height":89,"color":"1"},
+		{"type":"file","file":"zettelkasten-example/example plugins.md","id":"2be7e0e646948fb1","x":-747,"y":214,"width":250,"height":99,"color":"1"},
+		{"type":"file","file":"zettelkasten-example/example css.md","id":"84fe17d7ff905623","x":-747,"y":337,"width":250,"height":86,"color":"1"},
 		{"type":"text","text":"# Tasks query","id":"025b3442a9074d15","x":338,"y":-213,"width":250,"height":77,"color":"4"},
 		{"type":"text","text":">[!warning] tip\n>'tasks'  blocks don't work as canvas cards for some reason, you need to convert it to a file or drag in an existing file to the canvas for it to appear. This bug may be fixed in the future","id":"b66432bb155c4dcd","x":338,"y":950,"width":483,"height":260},
 		{"type":"text","text":"```dataview\nTABLE WITHOUT ID file.link as \"Name\", file.tags as \"Tags\"\nFrom #priority/001 \n```\n\n","id":"c399dbf91d20c48c","x":-366,"y":-38,"width":597,"height":425,"color":"3"},
-		{"type":"file","file":"_tasks query.md","id":"099acc7c201fd6ee","x":330,"y":-35,"width":499,"height":916}
+		{"type":"file","file":"_tasks query.md","id":"099acc7c201fd6ee","x":330,"y":-35,"width":499,"height":916},
+		{"id":"2eaad171f2ea2504","x":-88,"y":-211,"width":344,"height":92,"type":"text","text":"# [Vault Home](https://demovault.kribbitt.cc)\n"}
 	],
 	"edges":[
 		{"id":"3cd3bf7ec2aa0ea5","fromNode":"b8bf3d49b9cc03f4","fromSide":"right","toNode":"2d05c758486628f3","toSide":"left","color":"4"},
