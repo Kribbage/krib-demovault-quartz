@@ -7,12 +7,17 @@
 > an example view of tasks grouped by tags
 
 
+>note that in the web view of this vault task queries will not be rendered. However the query blocks can still be used as a reference.
+
 ```tasks
 group by tags
 ```
 > you could also have multiple views and sorting methods
 > This canvas has a few example layouts and queries
+> >Use the second link in the web version of this vault. The following will work only if opening this vault directly in obsidian from the releases page.
 [[_9999 Tasks.canvas|_9999 Tasks]] 
+
+[9999 Tasks - Web link](https://demovault.kribbitt.cc/_9999-tasks.html)
 
 
 ## Where to?

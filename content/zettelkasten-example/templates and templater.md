@@ -56,5 +56,9 @@ tp.date.now("YYYY-MM-DD HH mm SS")
 >[!info] Templater
 >Templater is a community plugin that expands the functionality of base templates, there is a little bit of code involved but it are a lot of helpful resources to just copy paste into your templates and once you have them set up it is as simple as clicking a button.  I'm going to provide some useful snippets as well. 
 
+>Use the second link in the web version of this vault. The following will work only if opening this vault directly in obsidian from the releases page.
+
 
 Let's go back [[home canvas.canvas| home]] but its a little different.
+
+[_home - Web link](https://demovault.kribbitt.cc/home-canvas.html)

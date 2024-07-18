@@ -91,8 +91,8 @@ A ZK or any kind of [[Why Use a PKM system|PKM]] creates a low friction environm
 
 > moving on to using the app!
 
-
+>Use the second link in the web version of this vault. The following will work only if opening this vault directly in obsidian from the releases page.
 [[_Using Obsidian canvas.canvas|Using Obsidian]]  
-
+[Using Obsidian - Web link](https://demovault.kribbitt.cc/_using-obsidian-canvas.html)
 
 [^1]:some points courtesy of Bryan Jenks - youtube

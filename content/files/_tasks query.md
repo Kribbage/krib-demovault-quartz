@@ -1,6 +1,7 @@
  ![[Pasted image 20230215183317.png]]
 >this is a screenshot of the default appearance of task block links. They  look a bit messy, so this is a good example of a place to use custom CSS styles. This work has already been done by a community member so we just need to put the file in our CSS snippets folder and check the box to enable it in settings
 
+>note that in the web view of this vault task queries will not be rendered. However the query blocks can still be used as a reference.
 
 > fixing old format styling for Tasks
 
