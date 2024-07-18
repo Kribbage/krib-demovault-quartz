@@ -18,3 +18,9 @@ publish: "true"
 > use the vault home or return-home link on the sidebar to return to this vault
 ### Daily Note Examples
 [[2023-02-16]]
+
+
+[Download](https://github.com/Kribbage/krib-demovault-quartz/releases) this vault and try [Obsidian](https://obsidian.md) for yourself!
+
+>[!Tip] Tip
+>Download the "source code.zip" file in the above download link

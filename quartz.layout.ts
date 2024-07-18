@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "instagram": "https://www.instagram.com/kribbitt_krumps/",
-      "ko-fi": "https://ko-fi.com/kribbitt"
+      "ko-fi": "https://ko-fi.com/kribbit",
+      "GitHub": "https://github.com/Kribbage/krib-demovault-quartz/releases"
     },
   }),
 }
