@@ -6,6 +6,9 @@ publish: "true"
 
 
 >Welcome to this example vault! Not everything that appears here is perfect or 100% complete, but I hope to add to it over time! Hope you can gain some insight into how Obsidian might be useful to you!
+
+The Contents of this website are a work in progress! New information will be added over time and a section will be updated with new changes as they are made.
+
 ## Start Here
 [[_Introduction.md]]
 
